@@ -8,7 +8,7 @@ This policy describes our practices for collecting, using, maintaining, protecti
   
 ## Information Collection and Use  
 VisionaryTour is designed with your privacy in mind. We do not collect, use, or share any personal information about you or any other user of the App.  
-Types of Data Not Collected  
+### Types of Data Not Collected  
 To be clear, we do not collect:  
 Personal information such as name, email address, or phone number  
 Location data  
